@@ -1,0 +1,7 @@
+print("enter five no")
+a=float(input())
+b=float(input())
+c=float(input())
+d=float(input())
+e=float(input())
+print("add=",a+b+c)
