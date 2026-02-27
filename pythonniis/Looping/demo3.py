@@ -12,9 +12,15 @@ for i in range(1,6,1):
         continue
     print("C")
 print("D")
-print(i)"""
+print(i)
 
 for i in [3,4,6,7,5,8]:
      if i>6:
          continue
-     print(i)
+     print(i)"""
+
+
+def add():
+    print("enter a number")
+    no1=int(input())
+    print()
